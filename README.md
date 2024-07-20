@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/aniket-gupta-94952425a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket gupta" height="30" width="40" /></a>
-<a href="instagram.com/tag_theaniketgupta0408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_aniketgupta0408" height="30" width="40" /></a>
-<a href="youtube.com/channel/UCh4pBgOSu7rekFsNO5yJmqA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unforgottenzilla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aniket-gupta-94952425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket gupta" height="30" width="40" /></a>
+<a href="https://instagram.com/the_aniketgupta0408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_aniketgupta0408" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@unforgottenzilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unforgottenzilla" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/guptaaniket02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="guptaaniket02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aniket gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniket gupta" height="30" width="40" /></a>
 </p>
