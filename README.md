@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width='400' src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+<img align="center" alt="coding" width='400' src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket04087021&label=Profile%20views&color=0e75b6&style=flat" alt="aniket04087021" /> </p>
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aniket gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket gupta" height="30" width="40" /></a>
+<a href="linkedin.com/in/aniket-gupta-94952425a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/the_aniketgupta0408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_aniketgupta0408" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/unforgottenzilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unforgottenzilla" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/guptaaniket02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="guptaaniket02" height="30" width="40" /></a>
