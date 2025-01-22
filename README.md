@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **gupta.aniket0408@gmail.com**
 
+- Visit My Portfolio <a href="https://aniket-s-portfolio-iota.vercel.app/">
+
 - ⚡ Fun fact **"I once built a full-stack application that tracks my coffee consumption habits, complete with data visualization to show trends over time. It turns out I'm most productive after my second cup of the day!"**
 
 <h3 align="left">Connect with me:</h3>
