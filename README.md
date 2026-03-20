@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me (SEO Optimized)
+## 🚀 About Me 
 
 - 💻 I am a **MERN Stack Developer** specializing in **MongoDB, Express.js, React.js, and Node.js**
 - ⚡ Passionate about building **scalable web applications, SaaS platforms, and AI-powered tools**
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 Featured Projects (Rank Booster)
+## 🧠 Featured Projects 
 
 - 🔥 **ANII Naukri** – Full Stack Job Portal (MERN Stack)
 - 🏥 **ANII Care** – Healthcare & Booking Platform  
@@ -37,7 +37,7 @@
 
 ---
 
-## 🌍 Portfolio & Contact (Important for SEO)
+## 🌍 Portfolio & Contact 
 
 - 💼 Portfolio: https://aniketgupta.me/  
 - 📫 Email: gupta.aniket0408@gmail.com  
@@ -61,7 +61,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Keyword Optimized)
+## 🛠️ Tech Stack 
 
 **Frontend:** React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, GSAP  
 **Backend:** Node.js, Express.js  
@@ -84,7 +84,7 @@
 
 ---
 
-## 🔍 SEO Keywords (Hidden Boost)
+
 
 <!--
 mern stack developer india
