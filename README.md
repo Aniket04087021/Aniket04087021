@@ -1,36 +1,102 @@
 <h1 align="center">Hi 👋, I'm Aniket Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">MERN Stack Developer | React.js Developer | Full Stack Web Developer | AI Enthusiast from India 🇮🇳</h3>
 
-<img align="center" alt="coding" width='400' src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket04087021&label=Profile%20views&color=0e75b6&style=flat" alt="aniket04087021" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket04087021" alt="aniket04087021" /></a> </p>
-
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Aniket04087021](https://github.com/Aniket04087021)
-
-- 📫 How to reach me **gupta.aniket0408@gmail.com**
-
-- 💼 Visit My Portfolio <a href="https://aniketgupta.me/">Portfolio</a>
-
-- ⚡ Fun fact **"I once built a full-stack application that tracks my coffee consumption habits, complete with data visualization to show trends over time. It turns out I'm most productive after my second cup of the day!"**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aniket-gupta-94952425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/the_aniketgupta0408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_aniketgupta0408" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@unforgottenzilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unforgottenzilla" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aniket_0408" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="guptaaniket02" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/lEkXbG5CdM/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniket gupta" height="30" width="40" /></a>
+<!-- SEO Keywords -->
+<p align="center">
+<b>Full Stack Developer | MERN Stack Developer | React Developer | Node.js Developer | MongoDB | JavaScript | AI Projects | Frontend Developer India</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<img align="center" alt="Full Stack Developer Coding" width='400' src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket04087021&show_icons=true&locale=en&layout=compact" alt="aniket04087021" /></p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=aniket04087021&label=Profile%20views&color=0e75b6&style=flat" alt="aniket04087021" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket04087021&show_icons=true&locale=en" alt="aniket04087021" /></p>
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=aniket04087021&theme=algolia&margin-w=15&margin-h=15" alt="aniket04087021" />
+</a>
+</p>
 
+---
 
+## 🚀 About Me (SEO Optimized)
+
+- 💻 I am a **MERN Stack Developer** specializing in **MongoDB, Express.js, React.js, and Node.js**
+- ⚡ Passionate about building **scalable web applications, SaaS platforms, and AI-powered tools**
+- 🎯 Focused on **modern UI/UX design, performance optimization, and GSAP animations**
+- 🌱 Currently learning **Advanced Full Stack Development & Artificial Intelligence (AI/NLP)**
+
+---
+
+## 🧠 Featured Projects (Rank Booster)
+
+- 🔥 **ANII Naukri** – Full Stack Job Portal (MERN Stack)
+- 🏥 **ANII Care** – Healthcare & Booking Platform  
+- 🌐 **CRM SaaS Landing Page** – Modern UI + GSAP Animations  
+- 📊 **Dynamic Data Table Manager** – Next.js + Redux Toolkit  
+- 🤖 **AI Terms of Service Analyzer** – NLP + Transformer Models  
+
+👉 Explore all projects here:  
+🔗 https://github.com/Aniket04087021  
+
+---
+
+## 🌍 Portfolio & Contact (Important for SEO)
+
+- 💼 Portfolio: https://aniketgupta.me/  
+- 📫 Email: gupta.aniket0408@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/aniket-gupta-94952425a/
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/aniket-gupta-94952425a/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/the_aniketgupta0408" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/@unforgottenzilla" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack (Keyword Optimized)
+
+**Frontend:** React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, GSAP  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, MySQL, PostgreSQL  
+**Tools:** Git, GitHub, Vercel, Netlify, Figma  
+
+---
+
+## 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket04087021&show_icons=true&locale=en&layout=compact" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket04087021&show_icons=true&locale=en" /></p>
+
+---
+
+## ⚡ Fun Fact (Human Touch for Engagement)
+
+"I built a full-stack app to track my coffee habits ☕ — turns out I'm most productive after my second cup!"
+
+---
+
+## 🔍 SEO Keywords (Hidden Boost)
+
+<!--
+mern stack developer india
+react developer portfolio
+full stack developer github india
+node js developer projects
+mongodb projects github
+ai developer portfolio
+frontend developer react india
+-->
