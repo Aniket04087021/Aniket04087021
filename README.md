@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aniket Gupta</h1>
+<h1 align="center">Hi 👋, I'm Aniket Gupta | MERN Stack Developer</h1>
 <h3 align="center">MERN Stack Developer | React.js Developer | Full Stack Web Developer | AI Enthusiast from India 🇮🇳</h3>
 
 <!-- SEO Keywords -->
